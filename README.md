@@ -6,5 +6,5 @@
 В следующих двух файлах представлен список комманд, которые были выполнены для перемещения между директориями, создания и удаления папок и файлов, а также поиска и замены текста в файлах. <br>
 Использовались команды `grep`, `find`, `sed`, `echo`, `ping`, и `curl` для работы с файлами, проверки доступности сайтов и выполнения HTTP-запросов. Также было управления процессами в системе, включая их просмотр и завершение. 
 
-[Bash1.txt](https://github.com/user-attachments/files/19810459/bash1.txt) <br>
-[Bash2.txt](https://github.com/user-attachments/files/19810485/bash2.txt)
+[bash1.txt](https://github.com/user-attachments/files/19810459/bash1.txt) <br>
+[bash2.txt](https://github.com/user-attachments/files/19810485/bash2.txt)
